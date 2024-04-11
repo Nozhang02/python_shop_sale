@@ -5,7 +5,8 @@
 2，数据库mysql
 3，数据来源淘宝网
 # 项目快照
-![image](https://github.com/Nozhang02/python_shop_sale/assets/124247860/fbf7eb5a-8224-43cf-8580-a3945dd194c9)
+![image](https://github.com/Nozhang02/python_shop_sale/assets/124247860/32f41f2e-f2b4-44d8-9373-ece4145eba22)
+
 # 体验地址
 http://1.117.72.120:8000
 
